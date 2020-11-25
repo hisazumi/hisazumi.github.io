@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Hisazumi Lab</title><link href="https://www.hisazumi.jp/" rel="alternate"></link><link href="https://www.hisazumi.jp/feeds/all.atom.xml" rel="self"></link><id>https://www.hisazumi.jp/</id><updated>2019-02-25T23:04:00+09:00</updated><entry><title>Hisazumi Lab</title><link href="https://www.hisazumi.jp/hisazumi-lab.html" rel="alternate"></link><published>2019-02-25T23:04:00+09:00</published><updated>2019-02-25T23:04:00+09:00</updated><author><name>Kenji Hisazumi</name></author><id>tag:www.hisazumi.jp,2019-02-25:/hisazumi-lab.html</id><summary type="html">&lt;h1&gt;久住研究室&lt;/h1&gt;
 &lt;p&gt;九州大学大学院システム情報科学(府|研究院) 久住研究室です。&lt;/p&gt;
-&lt;h1&gt;お知らせ&lt;/h1&gt;
-&lt;p&gt;2020年2月の研究室見学は、残念ながら久住は海外出張中で不在です。久住研に興味がある学生さんは久住宛にご連絡をいただければと思います。メールで質問を送ってくださっても結構ですし（本当にどのようなことでも大丈夫です！）、面会希望とお知らせいただいても結構です。&lt;/p&gt;
-&lt;p&gt;不在でご迷惑をおかけしますが、お気軽にコンタクトしてください。&lt;/p&gt;
-&lt;p&gt;久住 &lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#110;&amp;#101;&amp;#108;&amp;#64;&amp;#115;&amp;#108;&amp;#114;&amp;#99;&amp;#46;&amp;#107;&amp;#121;&amp;#117;&amp;#115;&amp;#104;&amp;#117;&amp;#45;&amp;#117;&amp;#46;&amp;#97;&amp;#99;&amp;#46;&amp;#106;&amp;#112;"&gt;&amp;#110;&amp;#101;&amp;#108;&amp;#64;&amp;#115;&amp;#108;&amp;#114;&amp;#99;&amp;#46;&amp;#107;&amp;#121;&amp;#117;&amp;#115;&amp;#104;&amp;#117;&amp;#45;&amp;#117;&amp;#46;&amp;#97;&amp;#99;&amp;#46;&amp;#106;&amp;#112;&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;研究 (Reserach)&lt;/h1&gt;
 &lt;p&gt;主にInternet of Things(IoT)、ロボット、自動車などの組込みシステムを対象として、ソフトウェアをいかに良く開発するかに関する研究をしています。主な道具はUMLなどの「モデル」ですが、それらに限らずいろいろな方法を使ってソフトウェアを記述することに興味があります。また、ここ最近は機械学習により日々の開発をアシストするかについて注力しています。&lt;/p&gt;
 &lt;p&gt;遠い目標は&lt;a href="http://www.sigemb.jp/wordpress/archives/394"&gt;湯河原宣言2018&lt;/a&gt;に少し表明しています。&lt;/p&gt;
 &lt;p&gt;直近の研究については以下をご覧ください(下のContinue readingをクリック！)。&lt;/p&gt;
 &lt;h2&gt;モデル駆動開発、ドメイン特化言語&lt;/h2&gt;
-&lt;p&gt;モデル駆動開発(Model-Driven Development; MDD)は、UMLなどのモデルを中心に使用してソフトウェアの様々な側面を記述する開発方法です …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;久住研究室&lt;/h1&gt;
+&lt;p&gt;モデル駆動開発(Model-Driven Development; MDD)は、UMLなどのモデルを中心に使用してソフトウェアの様々な側面を記述する開発方法です。モデルであったとしても、どちらかというと人間が読めるだけの記述よりは、機械可読で実行可能(Executable)な記述が好きで、実行、検証できるような記述方法が便利だと思っています。例えば、実行可能なUML(xtUML)を記述すると、それから作られたソフトウェアが消費する電力を見積もることが出来たり、自動的に使用できる範囲の電力で適応的に動作するソフトウェアの開発方法を研究しています。&lt;/p&gt;
+&lt;p&gt;また、一般的な言語では十分に開発上の課題を解決できないので、ある分野に特化した言語を使用するドメイン特化言語 …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;久住研究室&lt;/h1&gt;
 &lt;p&gt;九州大学大学院システム情報科学(府|研究院) 久住研究室です。&lt;/p&gt;
-&lt;h1&gt;お知らせ&lt;/h1&gt;
-&lt;p&gt;2020年2月の研究室見学は、残念ながら久住は海外出張中で不在です。久住研に興味がある学生さんは久住宛にご連絡をいただければと思います。メールで質問を送ってくださっても結構ですし（本当にどのようなことでも大丈夫です！）、面会希望とお知らせいただいても結構です。&lt;/p&gt;
-&lt;p&gt;不在でご迷惑をおかけしますが、お気軽にコンタクトしてください。&lt;/p&gt;
-&lt;p&gt;久住 &lt;a href="&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#110;&amp;#101;&amp;#108;&amp;#64;&amp;#115;&amp;#108;&amp;#114;&amp;#99;&amp;#46;&amp;#107;&amp;#121;&amp;#117;&amp;#115;&amp;#104;&amp;#117;&amp;#45;&amp;#117;&amp;#46;&amp;#97;&amp;#99;&amp;#46;&amp;#106;&amp;#112;"&gt;&amp;#110;&amp;#101;&amp;#108;&amp;#64;&amp;#115;&amp;#108;&amp;#114;&amp;#99;&amp;#46;&amp;#107;&amp;#121;&amp;#117;&amp;#115;&amp;#104;&amp;#117;&amp;#45;&amp;#117;&amp;#46;&amp;#97;&amp;#99;&amp;#46;&amp;#106;&amp;#112;&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;研究 (Reserach)&lt;/h1&gt;
 &lt;p&gt;主にInternet of Things(IoT)、ロボット、自動車などの組込みシステムを対象として、ソフトウェアをいかに良く開発するかに関する研究をしています。主な道具はUMLなどの「モデル」ですが、それらに限らずいろいろな方法を使ってソフトウェアを記述することに興味があります。また、ここ最近は機械学習により日々の開発をアシストするかについて注力しています。&lt;/p&gt;
 &lt;p&gt;遠い目標は&lt;a href="http://www.sigemb.jp/wordpress/archives/394"&gt;湯河原宣言2018&lt;/a&gt;に少し表明しています。&lt;/p&gt;
