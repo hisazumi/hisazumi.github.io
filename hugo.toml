@@ -32,3 +32,9 @@ hasCJKLanguage = true
 
 [security.funcs]
   getenv = ['^HUGO_', '^CI$', 'WC_POST_CSS']
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+  author = "authors"

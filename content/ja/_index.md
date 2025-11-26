@@ -16,7 +16,7 @@ sections:
         gradient_end: '#2b94c3'
         text_color_light: true
 
-  - block: about.biography
+  - block: about.avatar
     id: about
     content:
       title: About Us
@@ -36,5 +36,5 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: date_title_summary
+      view: compact
 ---
