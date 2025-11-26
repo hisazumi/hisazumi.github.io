@@ -21,6 +21,32 @@ hasCJKLanguage = true
   contentDir = "content/ja"
   weight = 1
 
+  [languages.ja.menu]
+    [[languages.ja.menu.main]]
+      name = "ホーム"
+      url = "#about"
+      weight = 10
+    [[languages.ja.menu.main]]
+      name = "ニュース"
+      url = "#posts"
+      weight = 20
+    [[languages.ja.menu.main]]
+      name = "業績"
+      url = "achievements/"
+      weight = 30
+    [[languages.ja.menu.main]]
+      name = "プロジェクト"
+      url = "projects-list/"
+      weight = 40
+    [[languages.ja.menu.main]]
+      name = "講義"
+      url = "teaching/"
+      weight = 50
+    [[languages.ja.menu.main]]
+      name = "論文"
+      url = "publication/"
+      weight = 60
+
 [languages.en]
   languageName = "English"
   contentDir = "content/en"
