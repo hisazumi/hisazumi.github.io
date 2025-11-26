@@ -35,6 +35,10 @@ hasCJKLanguage = true
       url = "achievements/"
       weight = 30
     [[languages.ja.menu.main]]
+      name = "受賞"
+      url = "awards/"
+      weight = 35
+    [[languages.ja.menu.main]]
       name = "プロジェクト"
       url = "projects-list/"
       weight = 40
@@ -61,6 +65,10 @@ hasCJKLanguage = true
       name = "Home"
       url = "/"
       weight = 10
+    [[languages.en.menu.main]]
+      name = "Awards"
+      url = "awards/"
+      weight = 20
 
 [params]
   # Site description
