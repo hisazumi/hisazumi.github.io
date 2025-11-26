@@ -53,6 +53,8 @@ jobs:
           go-version: '1.21'
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Clean Hugo Cache
+        run: hugo mod clean
       - name: Install Hugo Modules
         run: hugo mod get -u
       - name: Build with Hugo
