@@ -48,13 +48,13 @@ hasCJKLanguage = true
       url = "teaching/"
       weight = 50
     [[languages.ja.menu.main]]
-      name = "論文"
-      url = "publication/"
-      weight = 60
-    [[languages.ja.menu.main]]
       name = "アクセス"
       url = "access/"
       weight = 70
+    [[languages.ja.menu.main]]
+      name = "久住"
+      url = "authors/admin"
+      weight = 60
 
 [languages.en]
   languageName = "English"
