@@ -4,7 +4,7 @@ title: 久住 憲嗣
 role: 教授
 organizations:
   - name: 芝浦工業大学 システム理工学部電子情報システム学科
-    url: ""
+    url: "https://www.shibaura-it.ac.jp/faculty/systems/eis/"
 bio: 
 interests:
   - 組込みシステム
@@ -13,13 +13,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:contact@example.com"
-  - icon: twitter
-    icon_pack: fab
-    link: "https://twitter.com/Twitter"
+    link: "mailto:hisazumi@shibaura-it.ac.jp"
   - icon: github
     icon_pack: fab
-    link: "https://github.com/gcushen"
+    link: "https://github.com/hisazumi"
 ---
 
 # 経歴
