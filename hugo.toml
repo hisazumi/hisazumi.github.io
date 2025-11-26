@@ -52,6 +52,12 @@ hasCJKLanguage = true
   contentDir = "content/en"
   weight = 2
 
+  [languages.en.menu]
+    [[languages.en.menu.main]]
+      name = "Home"
+      url = "/"
+      weight = 10
+
 [params]
   # Site description
   description = "Hisazumi Laboratory"
