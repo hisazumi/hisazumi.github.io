@@ -2,13 +2,14 @@
 # Documentation: https://hugoblox.com/docs/
 
 # The URL the site will be built for
-baseURL = "https://hisazumilabweb.netlify.app/"
+baseURL = "https://hisazumi.github.io/"
 title = "Hisazumi Lab"
 
 # Theme
 # We will use the Hugo Blox modules
 module.imports = [
   { path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5" },
+  { path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-core" },
   { path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify" },
   { path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal" }
 ]
