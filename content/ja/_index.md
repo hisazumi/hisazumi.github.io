@@ -16,6 +16,20 @@ sections:
         gradient_end: '#2b94c3'
         text_color_light: true
 
+  - block: collection
+    id: posts
+    content:
+      title: Recent News
+      subtitle: ''
+      text: ''
+      filters:
+        folders:
+          - post
+        exclude_featured: false
+    design:
+      columns: '2'
+      view: compact
+
   - block: markdown
     content:
       title: 研究 (Research)
@@ -40,18 +54,4 @@ sections:
         ## モバイルアプリ/Web
 
         スマートフォン上で動作するモバイルアプリやWebに関する研究をしています。メソッドごと、画面の部品ごとに消費電力量を可視化する消費エネルギープロファイラ、モバイルWebを構成するさまざまなライブラリの消費電力解析、モバイルアプリの審美性評価などの研究をしています。
-
-  - block: collection
-    id: posts
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      filters:
-        folders:
-          - post
-        exclude_featured: false
-    design:
-      columns: '2'
-      view: compact
 ---
