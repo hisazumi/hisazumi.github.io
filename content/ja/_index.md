@@ -9,7 +9,7 @@ sections:
       image:
         filename: hero.jpg
       text: |
-        芝浦工業大学システム理工学部電子情報システム学科 久住研究室です。
+        芝浦工業大学システム理工学部電子情報システム学科 久住研究室
     design:
       background:
         gradient_start: '#4bb4e3'
