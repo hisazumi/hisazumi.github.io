@@ -1,0 +1,34 @@
+# Hugo Configuration
+# Documentation: https://hugoblox.com/docs/
+
+# The URL the site will be built for
+baseURL = "https://hisazumilabweb.netlify.app/"
+title = "Hisazumi Lab"
+
+# Theme
+# We will use the Hugo Blox modules
+module.imports = [
+  { path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5" },
+  { path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify" },
+  { path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal" }
+]
+
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+
+[languages.ja]
+  languageName = "Japanese"
+  contentDir = "content/ja"
+  weight = 1
+
+[languages.en]
+  languageName = "English"
+  contentDir = "content/en"
+  weight = 2
+
+[params]
+  # Site description
+  description = "Hisazumi Laboratory"
+
+[security.funcs]
+  getenv = ['^HUGO_', '^CI$', 'WC_POST_CSS']

@@ -1,0 +1,15 @@
+# Hugo default output
+/public
+/resources
+/.hugo_build.lock
+
+# Hugo Blox / Go
+/go.sum
+/node_modules
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
