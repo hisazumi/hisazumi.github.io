@@ -14,12 +14,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:hisazumi@shibaura-it.ac.jp"
-  - icon: twitter
-    icon_pack: fab
-    link: "https://twitter.com/Twitter"
   - icon: github
     icon_pack: fab
-    link: "https://github.com/gcushen"
+    link: "https://github.com/hisazumi"
 ---
 
 # Contact
