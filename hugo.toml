@@ -46,6 +46,10 @@ hasCJKLanguage = true
       name = "論文"
       url = "publication/"
       weight = 60
+    [[languages.ja.menu.main]]
+      name = "アクセス"
+      url = "access/"
+      weight = 70
 
 [languages.en]
   languageName = "English"
