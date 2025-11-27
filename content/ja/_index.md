@@ -5,11 +5,13 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Hisazumi Laboratory
+      title: 久住研究室
       image:
         filename: hero.jpg
       text: |
-        芝浦工業大学システム理工学部電子情報システム学科 久住研究室
+        芝浦工業大学 システム理工学部  
+        情報課程ソフトウェアコース  
+        (電子情報システム学科）
     design:
       background:
         gradient_start: '#4bb4e3'
