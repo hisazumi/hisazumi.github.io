@@ -34,12 +34,12 @@ type: page
 
 # Conferences & Workshops
 
+1. Hidetoshi Hamafuku and Kenji Hisazumi, LLM-based Test Scenario Generation Method for Autonomous Robots, Proceedings of the Asia Pacific Conference on Robot IoT System Development and Platform (APRIS 2025), 2025. **(Best Work-in-Progress Paper award)**.
+1. Yudai Yamada, Nobuhiko Ogura, Kenji Hisazumi, Harumi Watanabe, COP Layer Encapsulating Non-Functional Requirements for Physical Systems on Hakoniwa Environment, In Companion Proceedings of the 9th International Conference on the Art, Science, and Engineering of Programming (Programming 2025). Open Access Series in Informatics (OASIcs), Volume 134, pp. 9:1-9:10, 2025.
 1. Yuki Okamura, Kenji Hisazumi: Human-in-the-Loop Retraining with Human Intervention Reduction Method in NIDS, Proceedings of The South East Asian Technical University Consortium (SEATUC 2025), pp. 22-26, 2025.
 2. Fumika Yoshida, Kenji Hisazumi, Yuki Katakami, Hirofumi Morimoto and Nanami Katakami: Serious Game Construction Method Using GSN,  Proceedings of The South East Asian Technical University Consortium (SEATUC 2025), pp. 226-227, 2025.
-3. Kyoji Tanaka, Kenji Hisazumi: Automated Test Scenario Generation for Autonomous Robots
-using Large Language Models, Proceedings of the 14th International Conference on Software and Computer Applications (ICSCA 2025), 2025.
-4. Kyoji Tanaka, Kenji Hisazumi: Automated Scenario Generation for Autonomous Robots
-using Large Language Models, Proceedings of the Asia Pacific Conference on Robot IoT System Development and Platform (APRIS 2024), 2024.
+3. Kyoji Tanaka, Kenji Hisazumi: Automated Test Scenario Generation for Autonomous Robots using Large Language Models, Proceedings of the 14th International Conference on Software and Computer Applications (ICSCA 2025), 2025.
+4. Kyoji Tanaka, Kenji Hisazumi: Automated Scenario Generation for Autonomous Robots using Large Language Models, Proceedings of the Asia Pacific Conference on Robot IoT System Development and Platform (APRIS 2024), 2024.
 5. Yuki Funaguchi, Kenji Hisazumi: Generating Bug Fix Proposals for Simulink Models using Large Language Models, Proceedings of the Asia Pacific Conference on Robot IoT System Development and Platform (APRIS 2024), 2024.
 6. Masaharu Takahashi and Kenji Hisazumi: Towards Reliable LLM-Controlled Systems: Developing Evaluation Standards and Testing Framework, Proceedings of the Asia Pacific Conference on Robot IoT System Development and Platform (APRIS 2024), 2024.
 7. Kenji Hisazumi, Takeshi Ohkawa, Masafumi Miwa, Mikiko Sato, Takashi Nagai, Nobuhiro Ohe, Kittikhun Thongpull, Nattha Jindpaetch, Harumi Watanabe: APRIS Robot Challenge: Collaborative Online Interdisciplinary and International Learning for IoT/Robotics Systems, IEEE Global Engineering Education Conference(EDUCON) 2024, 2024.
