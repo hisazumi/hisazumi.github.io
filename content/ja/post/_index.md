@@ -1,4 +1,4 @@
 ---
-title: Updates
+title: News
 view: compact
 ---
