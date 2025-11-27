@@ -36,7 +36,7 @@
     }
   },
 
-  "postCreateCommand": "hugo version && go version && node --version",
+  "postCreateCommand": "bash .devcontainer/setup.sh",
 
   "remoteUser": "codespace"
 }

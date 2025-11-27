@@ -13,3 +13,4 @@
 # Editor
 .vscode/
 .idea/
+hugo_stats.json

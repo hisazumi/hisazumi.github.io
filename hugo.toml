@@ -88,3 +88,13 @@ hasCJKLanguage = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[build]
+  [build.buildStats]
+    enable = true
+  [[build.cachebusters]]
+    source = "assets/.*\\.(js|ts|jsx|tsx)"
+    target = "(js|scripts|javascript)"
+  [[build.cachebusters]]
+    source = "assets/.*\\.(.*)$"
+    target = "$1"
