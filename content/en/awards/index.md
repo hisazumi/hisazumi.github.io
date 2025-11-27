@@ -4,7 +4,7 @@ type: page
 ---
 
 
-
+1. Hidetoshi Hamafuku and Kenji Hisazumi, LLM-based Test Scenario Generation Method for Autonomous Robots, Asia Pacific Conference on Robot IoT System Development and Platform (APRIS 2025), Best Work-in-Progress Paper award, 2025年11月.
 1. 中西 恒夫，秋山 英久，請園 智玲，田辺 利文，中村 遼，橋本 浩二，藤永 拓矢，古庄 裕貴，前田 佐嘉志，三角 真，楊 同鑫，久住 憲嗣, 「遠隔演習環境の開発と運用を通したプログラミング教育の改革」, 第14回情報システム教育コンテスト（ISECON2021）・奨励賞, （社）情報処理学会情報処理教育委員会 & 情報システム教育委員会, 2022年3月5日.
 2. Masamichi Kakeshita, Kenji Hisazumi, Yasutaka Michiura, Keita Sakemi, Michihiro Matsumoto, APRIS2021 Best Work-in-Progress Paper Award, 2021年11月.
 3. Wentao Tang, Kenji Hisazumi, IoT Devices Sharing System Using Smart Contract, APRIS2020 Best Working-In-Progress Paper Award, 2020年10月.
