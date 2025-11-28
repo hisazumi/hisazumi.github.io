@@ -63,12 +63,17 @@ sections:
         
         スマートフォン上で動作するモバイルアプリやWebに関する研究をしています。メソッドごと、画面の部品ごとに消費電力量を可視化する消費エネルギープロファイラ、モバイルWebを構成するさまざまなライブラリの消費電力解析、モバイルアプリの審美性評価などの研究をしています。
         また、**コンテキスト指向プログラミング(COP)のWebやモバイルアプリへの適用**についても研究しており、ユーザーの状況や環境に応じて動的に振る舞いを最適化するアプリケーションの開発手法を探求しています。
----
 
-  - block: about.avatar
-    id: about
+  - block: markdown
+    id: contact
     content:
       title: Contact
-      username: admin
+      text: |
+        久住 憲嗣
+        <a href="mailto:hisazumi@shibaura-it.ac.jp" style="font-size: 1.5rem; margin-right: 0.5rem; margin-left: 0.5rem"><i class="fas fa-envelope"></i></a>
+        <a href="https://github.com/hisazumi" style="font-size: 1.5rem;"><i class="fab fa-github"></i></a>
+
+        337-8570 埼玉県さいたま市見沼区深作307
     design:
       columns: '2'
+---
