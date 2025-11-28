@@ -53,7 +53,7 @@ hasCJKLanguage = true
       weight = 70
     [[languages.ja.menu.main]]
       name = "久住"
-      url = "authors/admin"
+      url = "about/"
       weight = 60
 
 [languages.en]
