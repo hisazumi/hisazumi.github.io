@@ -3,6 +3,10 @@ set -e
 
 echo "Setting up development environment..."
 
+# Install required dependencies for Hugo Extended (Alpine Linux)
+echo "Installing dependencies for Hugo Extended..."
+sudo apk add --no-cache libstdc++ gcompat
+
 # Check if Hugo is installed and is extended version
 if ! hugo version 2>/dev/null | grep -q "+extended"; then
     echo "Installing Hugo Extended..."
@@ -23,10 +27,8 @@ if ! hugo version 2>/dev/null | grep -q "+extended"; then
     echo "Hugo Extended installed successfully!"
 fi
 
-# Verify installations
-echo "Verifying installations..."
+# Verify Hugo installation
+echo "Verifying Hugo installation..."
 hugo version
-go version
-node --version
 
 echo "Setup complete!"

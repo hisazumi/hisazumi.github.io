@@ -36,7 +36,5 @@
     }
   },
 
-  "postCreateCommand": "bash .devcontainer/setup.sh",
-
-  "remoteUser": "codespace"
+  "postCreateCommand": "bash .devcontainer/setup.sh"
 }

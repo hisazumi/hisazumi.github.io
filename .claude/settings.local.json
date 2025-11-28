@@ -2,7 +2,12 @@
   "permissions": {
     "allow": [
       "Bash(mkdir:*)",
-      "Bash(hugo mod:*)"
+      "Bash(hugo mod:*)",
+      "Bash(bash:*)",
+      "Bash(ldd:*)",
+      "Bash(sudo apt-get update:*)",
+      "Bash(sudo apt-get install:*)",
+      "Bash(hugo version:*)"
     ],
     "deny": [],
     "ask": []
