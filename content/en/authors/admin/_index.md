@@ -19,7 +19,4 @@ social:
     link: "https://github.com/hisazumi"
 ---
 
-# Contact
-
-- email: hisazumi [at] shibaura-it.ac.jp
-- address: 307 Fukasaku, Minuma-ku, Saitama-shi, Saitama, 337-8570, Japan
+307 Fukasaku, Minuma-ku, Saitama-shi, Saitama, 337-8570, Japan
