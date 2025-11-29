@@ -70,6 +70,10 @@ hasCJKLanguage = true
       name = "Awards"
       url = "awards/"
       weight = 20
+    [[languages.en.menu.main]]
+      name = "Achievements"
+      url = "achievements/"
+      weight = 30      
 
 [params]
   # Site description
