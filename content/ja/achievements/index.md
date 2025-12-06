@@ -34,6 +34,8 @@ type: page
 
 # Conferences & Workshops
 
+1. Zhipeng Shen, Kenji Hisazumi: Comparing AI-Based Literature Search
+Tools for Software Engineering Research, Proceedings of The South East Asian Technical University Consortium (20th SEATUC), 2025.
 1. Hidetoshi Hamafuku and Kenji Hisazumi, LLM-based Test Scenario Generation Method for Autonomous Robots, Proceedings of the Asia Pacific Conference on Robot IoT System Development and Platform (APRIS 2025), 2025. **(Best Work-in-Progress Paper award)**.
 1. Yudai Yamada, Nobuhiko Ogura, Kenji Hisazumi, Harumi Watanabe, COP Layer Encapsulating Non-Functional Requirements for Physical Systems on Hakoniwa Environment, In Companion Proceedings of the 9th International Conference on the Art, Science, and Engineering of Programming (Programming 2025). Open Access Series in Informatics (OASIcs), Volume 134, pp. 9:1-9:10, 2025.
 1. Yuki Okamura, Kenji Hisazumi: Human-in-the-Loop Retraining with Human Intervention Reduction Method in NIDS, Proceedings of The South East Asian Technical University Consortium (SEATUC 2025), pp. 22-26, 2025.
