@@ -34,6 +34,7 @@ type: page
 
 # Conferences & Workshops
 
+1. Namiko Tanaka, Lisa Nabei, Harumi Watanabe, Kenji Hisazumi: Developing Global Competencies with Psychological Safety in Software Engineers Through Global Project-Based Learning (gPBL), Proceedings of the 2025 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE 2025), 2025.
 1. Zhipeng Shen, Kenji Hisazumi: Comparing AI-Based Literature Search
 Tools for Software Engineering Research, Proceedings of The South East Asian Technical University Consortium (20th SEATUC), 2025.
 1. Hidetoshi Hamafuku and Kenji Hisazumi, LLM-based Test Scenario Generation Method for Autonomous Robots, Proceedings of the Asia Pacific Conference on Robot IoT System Development and Platform (APRIS 2025), 2025. **(Best Work-in-Progress Paper award)**.
