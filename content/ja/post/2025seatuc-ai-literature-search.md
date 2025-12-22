@@ -5,7 +5,7 @@ authors: ["admin"]
 description: ソフトウェア工学研究におけるAIベースの文献検索ツールの比較に関する論文を20th SEATUCにて発表しました。
 ---
 
-M2の沈さんがThe South East Asian Technical University Consortium (20th SEATUC)において、AIベースの文献検索ツールの比較に関する論文を発表しました。
+M2の沈さんがインドネシアのジョグジャカルタで開催のThe South East Asian Technical University Consortium (20th SEATUC)において、AIベースの文献検索ツールの比較に関する論文を発表しました。
 
 ## 論文情報
 

@@ -5,7 +5,7 @@ authors: ["admin"]
 description: ネットワーク侵入検知システムにおける人間介入削減手法に関する論文をSEATUC 2025にて発表しました。
 ---
 
-修士2年の岡村さんがThe South East Asian Technical University Consortium (SEATUC 2025)において、ネットワーク侵入検知システム(NIDS)における人間介入削減手法に関する論文を発表しました。
+修士2年の岡村さんがベトナム ホーチミン開催のThe South East Asian Technical University Consortium (SEATUC 2025)において、ネットワーク侵入検知システム(NIDS)における人間介入削減手法に関する論文を発表しました。
 
 ## 論文情報
 

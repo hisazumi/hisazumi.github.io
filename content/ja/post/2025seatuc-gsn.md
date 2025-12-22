@@ -5,7 +5,7 @@ authors: ["admin"]
 description: Goal Structuring Notationを用いたシリアスゲーム構築手法に関する論文をSEATUC 2025にて発表しました。
 ---
 
-修士2年の吉田さんがThe South East Asian Technical University Consortium (SEATUC 2025)において、GSN (Goal Structuring Notation)を用いたシリアスゲーム構築手法に関する論文を発表しました。教育や訓練を目的としたシリアスゲームを体系的に構築する手法を提案し、狩猟を対象としたゲームのプロトタイプを作成し評価しています。
+修士2年の吉田さんがベトナム ホーチミン開催のThe South East Asian Technical University Consortium (SEATUC 2025)において、GSN (Goal Structuring Notation)を用いたシリアスゲーム構築手法に関する論文を発表しました。教育や訓練を目的としたシリアスゲームを体系的に構築する手法を提案し、狩猟を対象としたゲームのプロトタイプを作成し評価していますd。
 
 ## 論文情報
 
