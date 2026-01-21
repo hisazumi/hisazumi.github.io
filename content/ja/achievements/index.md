@@ -34,6 +34,8 @@ type: page
 
 # Conferences & Workshops
 
+1. Masaaki Negishi, Kenji Hisazumi: Verification Method of UML Diagrams Using Large Language Models, The IEEE Global Engineering Education Conference (EDUCON 2026), 2026.
+1. Ren Ajiki, Kenji Hisazumi: Automatic Program Repair Using Large Language Models in Model-Based Development, The International Conference on Model-Based Software and Systems Engineering (MODELSWARD 2026), 2026.
 1. Namiko Tanaka, Lisa Nabei, Harumi Watanabe, Kenji Hisazumi: Developing Global Competencies with Psychological Safety in Software Engineers Through Global Project-Based Learning (gPBL), Proceedings of the 2025 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE 2025), 2025.
 1. Zhipeng Shen, Kenji Hisazumi: Comparing AI-Based Literature Search
 Tools for Software Engineering Research, Proceedings of The South East Asian Technical University Consortium (20th SEATUC), 2025.
