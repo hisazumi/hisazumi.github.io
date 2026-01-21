@@ -1,6 +1,6 @@
 ---
 title: MODELSWARD 2026にてLLMを用いた自動プログラム修復に関する論文がアクセプト
-date: 2025-01-21
+date: 2026-01-21
 authors: ["admin"]
 description: モデルベース開発における大規模言語モデルを用いた自動プログラム修復に関する論文がMODELSWARD 2026にアクセプトされました。
 ---

@@ -1,6 +1,6 @@
 ---
 title: EDUCON 2026にてLLMを用いたUML図の検証手法に関する論文がアクセプト
-date: 2025-01-21
+date: 2026-01-21
 authors: ["admin"]
 description: 大規模言語モデルを用いたUML図の検証手法に関する論文がEDUCON 2026にアクセプトされました。
 ---
