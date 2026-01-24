@@ -32,6 +32,10 @@ hasCJKLanguage = true
       url = "#posts"
       weight = 20
     [[languages.ja.menu.main]]
+      name = "研究活動"
+      url = "research/"
+      weight = 25
+    [[languages.ja.menu.main]]
       name = "業績"
       url = "achievements/"
       weight = 30
