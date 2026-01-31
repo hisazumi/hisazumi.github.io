@@ -57,6 +57,7 @@ type: page
 物理的なブロックを用いた**タンジブル・プログラミング**による初学者の導入支援から、**生成AIを用いたUML図の論理検証**による設計学習支援まで、人間の認知プロセスに寄り添った「体験（Experience）」をデザインします。また、グローバルPBLを通じた国際的なエンジニア育成にも力を入れています。
 
 #### 代表的な研究成果
+* **[Tangible Programming]** Hina Hiratsuka, Kenji Hisazumi: PhysiCode Builder: A Framework for Rapid Prototyping of Tangible Programming Toolkits, *Programming 2026*, 2026.
 * **[AI-Assisted Learning]** Masaaki Negishi, Kenji Hisazumi: Verification Method of UML Diagrams Using Large Language Models, *EDUCON 2026*, 2026.
 * **[Global PBL]** Namiko Tanaka, et al.: Developing Global Competencies with Psychological Safety in Software Engineers Through Global Project-Based Learning (gPBL), *TALE 2025*, 2025.
 * **[Review Support]** Daisuke Saito, Taiyou Minagawa, Kenji Hisazumi: Automated Review Tool for Educational Models Utilizing Generative AI, *APRIS 2023*, 2023.
