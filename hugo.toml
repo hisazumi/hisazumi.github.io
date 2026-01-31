@@ -16,6 +16,7 @@ module.imports = [
 
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
+buildFuture = true
 
 [languages.ja]
   languageName = "Japanese"
