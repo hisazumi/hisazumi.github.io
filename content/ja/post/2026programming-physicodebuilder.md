@@ -5,7 +5,7 @@ authors: ["admin"]
 description: タンジブルプログラミングツールキットの迅速なプロトタイピングフレームワークに関する論文がProgramming 2026のPX/26ワークショップにアクセプトされました。
 ---
 
-平塚さんの論文がThe International Conference on the Art, Science, and Engineering of Programming (Programming 2026)の併設ワークショップPX/26にアクセプトされました。物理的なブロックを用いたタンジブルプログラミングのツールキットを迅速にプロトタイピングするためのフレームワーク「PhysiCode Builder」に関する研究です。ドイツ・ミュンヘンで発表予定です。
+B4の平塚さんの論文がThe International Conference on the Art, Science, and Engineering of Programming (Programming 2026)の併設ワークショップPX/26にアクセプトされました。物理的なブロックを用いたタンジブルプログラミングのツールキットを迅速にプロトタイピングするためのフレームワーク「PhysiCode Builder」に関する研究です。ドイツ・ミュンヘンで発表予定です。
 
 ## 論文情報
 
