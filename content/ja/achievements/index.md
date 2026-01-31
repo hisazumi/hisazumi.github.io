@@ -35,6 +35,7 @@ type: page
 # Conferences & Workshops
 
 1. Hina Hiratsuka, Kenji Hisazumi: PhysiCode Builder: A Framework for Rapid Prototyping of Tangible Programming Toolkits, The 10th International Conference on the Art, Science, and Engineering of Programming (Programming 2026), 2026.
+1. Ryota Uesugi, Nobuhiko Ogura, Kenji Hisazumi, Harumi Watanabe: A Behavior-Centric Programming Framework for Drone Systems with Digital Twin Backends, The 10th International Conference on the Art, Science, and Engineering of Programming (Programming 2026), 2026.
 1. Masaaki Negishi, Kenji Hisazumi: Verification Method of UML Diagrams Using Large Language Models, The IEEE Global Engineering Education Conference (EDUCON 2026), 2026.
 1. Ren Ajiki, Kenji Hisazumi: Automatic Program Repair Using Large Language Models in Model-Based Development, The International Conference on Model-Based Software and Systems Engineering (MODELSWARD 2026), 2026.
 1. Namiko Tanaka, Lisa Nabei, Harumi Watanabe, Kenji Hisazumi: Developing Global Competencies with Psychological Safety in Software Engineers Through Global Project-Based Learning (gPBL), Proceedings of the 2025 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE 2025), 2025.

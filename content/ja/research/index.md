@@ -28,6 +28,7 @@ type: page
 自動運転車やドローンなど、現実世界で動作するシステム（Cyber-Physical Systems）には、極めて高い安全性が求められます。仮想シミュレーション環境（箱庭/Hakoniwa）や機能安全分析（FRAM）、形式手法などを駆使し、複雑なシステムの挙動を予測・検証する技術を研究しています。
 
 #### 代表的な研究成果
+* **[Drone / Digital Twin]** Ryota Uesugi, Nobuhiko Ogura, Kenji Hisazumi, Harumi Watanabe: A Behavior-Centric Programming Framework for Drone Systems with Digital Twin Backends, *Programming 2026*, 2026. (共著)
 * **[Hakoniwa / MBD]** Yudai Yamada, Nobuhiko Ogura, Kenji Hisazumi, Harumi Watanabe: COP Layer Encapsulating Non-Functional Requirements for Physical Systems on Hakoniwa Environment, *Programming 2025*, 2025.
 * **[Safety Analysis]** Masamichi Kakeshita, et al.: Conversion Method of MATLAB/Simulink Model for a Functional Resonance Analysis Method-based Model, *MODELSWARD 2022*, 2022.
 * **[Test Readiness]** Takuya Ogata, Yuge Liu, Kenji Hisazumi: A method for determining whether a Simulink model is ready for test generation, *APRIS 2020*, 2020.
