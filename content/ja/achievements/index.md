@@ -34,6 +34,7 @@ type: page
 
 # Conferences & Workshops
 
+1. Harunobu Watabe, Kenji Hisazumi: Code Generation Method Using Large Language Models Integrating Plan and Test Case Generation, 2026 IEEE Region 10 Conference (TENCON 2026), 2026.
 1. Hina Hiratsuka, Kenji Hisazumi: PhysiCode Builder: A Framework for Rapid Prototyping of Tangible Programming Toolkits, The 10th International Conference on the Art, Science, and Engineering of Programming (Programming 2026), 2026.
 1. Ryota Uesugi, Nobuhiko Ogura, Kenji Hisazumi, Harumi Watanabe: A Behavior-Centric Programming Framework for Drone Systems with Digital Twin Backends, The 10th International Conference on the Art, Science, and Engineering of Programming (Programming 2026), 2026.
 1. Masaaki Negishi, Kenji Hisazumi: Verification Method of UML Diagrams Using Large Language Models, The IEEE Global Engineering Education Conference (EDUCON 2026), 2026.
